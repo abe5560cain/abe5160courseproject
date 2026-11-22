@@ -1,0 +1,11 @@
+{
+  "panel_design": "C_balanced_7stations_7years",
+  "grain": "daily",
+  "n_observations": 12229,
+  "n_stations": 7,
+  "n_network_groups": 4,
+  "n_candidate_periods": 13005,
+  "n_coverage_excluded": 776,
+  "max_group_fraction": 0.5782974895739635,
+  "analysis_window": "march_november"
+}
