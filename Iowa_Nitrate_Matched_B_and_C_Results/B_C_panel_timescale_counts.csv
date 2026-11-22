@@ -1,9 +1,0 @@
-panel_design,grain,n_observations,n_stations,n_network_groups,n_candidate_periods,n_coverage_excluded,max_group_fraction,analysis_window
-B_matched_station_years,season_year,91,13,7,91,0,0.43956043956043955,march_november
-B_matched_station_years,monthly,711,13,7,817,106,0.45147679324894513,march_november
-B_matched_station_years,weekly,3193,13,7,3560,367,0.44816786720952084,march_november
-B_matched_station_years,daily,22563,13,7,23967,1404,0.44754686876745114,march_november
-C_balanced_7stations_7years,season_year,49,7,4,49,0,0.5714285714285714,march_november
-C_balanced_7stations_7years,monthly,393,7,4,440,47,0.5801526717557252,march_november
-C_balanced_7stations_7years,weekly,1729,7,4,1922,193,0.5748987854251012,march_november
-C_balanced_7stations_7years,daily,12229,7,4,13005,776,0.5782974895739635,march_november
