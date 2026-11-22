@@ -1,0 +1,47 @@
+{
+  "created_utc": "2026-11-22T05:03:21.060676+00:00",
+  "analysis_window": "march_november",
+  "panel_designs": [
+    "B_matched_station_years",
+    "C_balanced_7stations_7years"
+  ],
+  "scales": [
+    "season_year",
+    "monthly",
+    "weekly",
+    "daily"
+  ],
+  "B_station_year_pairs": 91,
+  "C_station_year_pairs": 49,
+  "C_station_ids": [
+    "USGS-05464420",
+    "USGS-05482000",
+    "USGS-05482300",
+    "USGS-05482500",
+    "USGS-05484000",
+    "USGS-05484500",
+    "USGS-06808500"
+  ],
+  "C_shared_years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2023,
+    2024,
+    2025
+  ],
+  "C_require_identical_periods": false,
+  "nitrate_target": "flow-weighted nitrate + nitrite, mg/L as nitrogen",
+  "geography": "Iowa portions of each USGS station upstream basin",
+  "spatial_CV": "LeaveOneGroupOut on basin-overlap networks after selected panel/scale filtering",
+  "temporal_CV": "last two observed calendar years evaluated independently",
+  "expected_sample_interval_minutes": 15,
+  "minimum_paired_data_coverage": 0.8,
+  "RF_trees": 250,
+  "GBT_trees": 120,
+  "bootstrap_repetitions": 1000,
+  "GIS_boundary_slivers_reported_but_kept_in_weighted_predictors": true,
+  "no_causal_interpretation": true,
+  "not_advance_forecast_due_to_same_period_discharge": true
+}

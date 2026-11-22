@@ -1,0 +1,4 @@
+grain,panel_design,model,pooled_RMSE_improvement,relative_RMSE_improvement_pct,mean_group_RMSE_improvement,groups_improved,groups_total
+monthly,B_matched_station_years,Linear Regression,-0.18374686339390678,-4.753941097468986,-0.3572413633215049,5,7
+monthly,B_matched_station_years,Random Forest,0.310898970057472,8.58102386030815,0.4205619405818654,5,7
+monthly,B_matched_station_years,Gradient Boosting,0.34608190701587116,9.666069282392082,0.43469283820126486,7,7

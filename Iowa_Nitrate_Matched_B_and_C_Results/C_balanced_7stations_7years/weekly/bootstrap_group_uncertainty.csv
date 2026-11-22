@@ -1,0 +1,4 @@
+model,grain,panel_design,n_groups,delta_RMSE_lower_2p5pct,delta_RMSE_upper_97p5pct,note
+Linear Regression,weekly,C_balanced_7stations_7years,4,-17.005840931125334,-0.45953698775626783,Exploratory group bootstrap; not a formal causal p-value
+Random Forest,weekly,C_balanced_7stations_7years,4,0.0519310156251942,1.8239826720018724,Exploratory group bootstrap; not a formal causal p-value
+Gradient Boosting,weekly,C_balanced_7stations_7years,4,0.010787651685735256,0.8328759603728986,Exploratory group bootstrap; not a formal causal p-value

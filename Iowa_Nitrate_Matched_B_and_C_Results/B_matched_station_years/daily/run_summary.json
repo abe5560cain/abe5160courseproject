@@ -1,0 +1,11 @@
+{
+  "panel_design": "B_matched_station_years",
+  "grain": "daily",
+  "n_observations": 22563,
+  "n_stations": 13,
+  "n_network_groups": 7,
+  "n_candidate_periods": 23967,
+  "n_coverage_excluded": 1404,
+  "max_group_fraction": 0.44754686876745114,
+  "analysis_window": "march_november"
+}
